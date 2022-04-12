@@ -1,7 +1,12 @@
-Dfinity ICP's Motoko supports #Orthogonal persistance# which means the value of a variable with "stable" keyword remains persistant even if the program is re-executed. This eliminates the need of a DB for the program.
-
 # dkeeper
 
+Dfinity ICP's Motoko supports [Orthogonal persistance](https://medium.com/dfinity/a-technical-overview-of-the-internet-computer-f57c62abc20f) which means the value of a variable with "stable" keyword remains persistant even if the program is re-executed. This eliminates the need of a DB for the program.
+
+## Installation guide for required programs : 
+- [Installation and Setup for Macs](https://docs.google.com/document/d/e/2PACX-1vTSgoWcVvuMW4Aa78MyqeK0_ZRl_MaV7rS-tdhya3jlPbSSbxczQFCohrGf87T4F7tJKXwTjT2z_QSq/pub)
+- [Installation and Setup for Windows](https://docs.google.com/document/d/e/2PACX-1vTNicu-xuf4EiLAehHIqgfpjAnPjzqMGT-xpZVvYaAWNyvzYK_Ceve_me4PVRIxpzH7ea5PAX9NxGwY/pub)
+
+# intro 
 Welcome to your new dkeeper project and to the internet computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 
 To get started, you might want to explore the project directory structure and the default configuration file. Working with this project in your development environment will not affect any production deployment or identity tokens.
