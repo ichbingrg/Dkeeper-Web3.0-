@@ -1,5 +1,9 @@
 # dkeeper
 
+Dkeeper uses ReactJS for frontend and Dfinity's Motoko for backend. The DFINITY Foundation is a not for profit organization that develops the Internet Computer, a public blockchain network designed to host smart contracts. ICP is the native cryptocurrency of the platform.
+
+The app has not been deployed on the ICP network yet due to lack of cycle costs.
+
 Dfinity ICP's Motoko supports [Orthogonal persistance](https://medium.com/dfinity/a-technical-overview-of-the-internet-computer-f57c62abc20f) which means the value of a variable with "stable" keyword remains persistant even if the program is re-executed. This eliminates the need of a DB for the program.
 
 ## Installation guide for required programs : 
