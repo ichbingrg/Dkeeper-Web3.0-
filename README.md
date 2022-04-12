@@ -26,7 +26,7 @@ To learn more before you start working with dkeeper, see the following documenta
 If you want to start working on your project right away, you might want to try the following commands:
 
 ```bash
-cd dkeeper/
+cd src/dkeeper/
 dfx help
 dfx config --help
 ```
@@ -36,6 +36,9 @@ dfx config --help
 If you want to test your project locally, you can use the following commands:
 
 ```bash
+#get to the dkeeper directory
+cd /location_to_this_file/src/dkeeper
+
 #download all the required node modules
 node install
 
